@@ -1,3 +1,2 @@
 .replit
-target/
-target
+target/*
