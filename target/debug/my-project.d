@@ -1,1 +1,1 @@
-/home/runner/typing/target/debug/my-project: /home/runner/typing/src/main.rs
+/debbywebbydrive/projects/rust/typing/target/debug/my-project: /debbywebbydrive/projects/rust/typing/src/main.rs
