@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 .replit
 target/**
+=======
+/target/**
+/target/
+target/*
+target/**
+# how do i get rid of it wtf
+>>>>>>> ohno
